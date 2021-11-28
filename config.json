@@ -1,12 +1,12 @@
 {
-  "prefix": "",
-  "main_token": "",
-  "developers": [""],
-  "bot_name":"",
-  "emoji":"",
-  "color":"",
-  "ticket_limit":"",
-  "support_role_id":"",
-  "category_id":"",
-  "log_channel_id":""
+  "prefix": ".",
+  "main_token": "OTE0NDg5NTAxNTU5MTg5NTQ0.YaNytw.SOYflJorDReosvgPCMgeFa0d4Mw",
+  "developers": ["852737378967486464"],
+  "bot_name":"ticket",
+  "emoji":"📩",
+  "color":"Blue",
+  "ticket_limit":"100",
+  "support_role_id":"914496412211884042",
+  "category_id":"914496145491886102",
+  "log_channel_id":"914496621029494855"
 }
